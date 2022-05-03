@@ -1,0 +1,27 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "name": "study",
+  "description": "스터디 공간",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EunyoungKyung/study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EunyoungKyung/study/issues"
+  },
+  "homepage": "https://github.com/EunyoungKyung/study#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
